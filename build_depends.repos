@@ -1,0 +1,5 @@
+repositories:
+  autoware_common:
+    type: git
+    url: https://github.com/AVGTeam-OperakitB/autoware_common.git
+    version: main
